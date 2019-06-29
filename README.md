@@ -1,4 +1,4 @@
-> Use opencv with AWS Lambda to do video procession, creating frames and storing it to destination S3 bucket.
+> Use opencv with AWS Lambda to do video processing, creating frames and storing it to destination S3 bucket.
 
 ## 🚀 Instructions
 You can follow the steps below to deploy lambda function. 
