@@ -65,3 +65,16 @@ e.g.
 
 **Note**: Make sure you select at least 1 GB of memory and 3-5 minutes of execution time to lambda as video procession takes time. Max video size < 500 MBs and max execution time < 15 minutes.
 
+3. Environment variables used are as follows:
+
+For destination bucket:
+```
+BUCKET
+```
+
+For dynamodb table:
+```
+TABLE
+```
+
+
