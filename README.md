@@ -85,3 +85,11 @@ https://drive.google.com/open?id=1H-ROQNLjntY5q5K5IkN0pNOn3058JbG1
 
 
 **Note**: This lambda function supports only MP4 videos as of now.
+
+## :100: TEST
+
+Tested on this video: 
+https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4
+
+Results: 
+
