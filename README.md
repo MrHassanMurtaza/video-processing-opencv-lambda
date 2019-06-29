@@ -77,4 +77,11 @@ For dynamodb table:
 TABLE
 ```
 
+4. In order to use `OpenCV` with AWS Lambda, you'll need to create layer with following package:
 
+https://drive.google.com/open?id=1H-ROQNLjntY5q5K5IkN0pNOn3058JbG1
+
+5. Add the layer you created in the previous step to already created AWS Lambda.
+
+
+**Note**: This lambda function supports only MP4 videos as of now.
